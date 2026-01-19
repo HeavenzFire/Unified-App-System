@@ -1,0 +1,5 @@
+{
+  "name": "Unified App System",
+  "description": "A single, unified interface to connect and activate various app-like modules. This multipurpose system leverages AI to power a task manager, idea generator, code assistant, text summarizer, and image inspirer in one cohesive dashboard.",
+  "requestFramePermissions": []
+}
